@@ -1,7 +1,13 @@
+Currency Converter
+
 Overview
+
+
 This Currency Converter is a simple web application developed using HTML, CSS, and JavaScript. It allows users to convert between different currencies based on the latest exchange rates.
 
 Features
+
+
 User-friendly interface
 Real-time exchange rate updates
 Support for multiple currencies
@@ -12,6 +18,8 @@ CSS
 JavaScript
 
 How to Use
+
+
 Clone the repository to your local machine.
 
 git clone https://github.com/your-jaiswalradha/currency-converter.git
@@ -30,6 +38,8 @@ Click the "Exchange Rate" button to see the converted amount.
 The application will display the result below the conversion button.
 
 Customization
+
+
 You can customize the list of supported currencies by modifying the currencies array in the script.js file.
 javascript
 const currencies = [
