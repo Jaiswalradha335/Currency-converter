@@ -19,12 +19,6 @@ JavaScript
 
 How to Use
 
-
-Clone the repository to your local machine.
-
-git clone https://github.com/your-jaiswalradha/currency-converter.git
-Open the project folder in your preferred code editor.
-
 Run the index.html file in a web browser to launch the Currency Converter.
 
 Enter the amount you want to convert in the enter amount field.
